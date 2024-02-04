@@ -23,7 +23,7 @@
         padding: 0.3rem;
     }
 
-    .fa-bars{
+    nav span{
         display: inline-block;
         position: absolute;
         right: 49%;
@@ -84,7 +84,7 @@
         padding: 0.3rem;
     }
 
-    .fa-bars{
+    nav span{
         font-size: 1rem;
     }
 }
@@ -135,7 +135,7 @@
         padding: 0.3rem;
     }
 
-    .fa-bars{
+    nav span{
         font-size: 1rem;
     }
 }
