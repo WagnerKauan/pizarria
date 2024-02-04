@@ -1,0 +1,141 @@
+@media screen and (max-width: 948px) {
+    .banner{
+        display: none;
+    }
+
+    .logo{
+        margin: auto;
+    }
+}
+
+@media screen and (max-width: 862px) {
+    nav ul{
+        display: none;
+    }
+
+    nav{
+        position: relative;
+    }
+
+    .icons{
+        margin-left: auto;
+        font-size: 0.8rem;
+        padding: 0.3rem;
+    }
+
+    .fa-bars{
+        display: inline-block;
+        position: absolute;
+        right: 49%;
+        font-size: 1.5rem;
+        color: white;
+    }
+}
+
+
+@media screen and (max-width: 804px) {
+    .texts-main h2{
+        font-size: 2rem;
+    }
+
+    .texts-main span{
+        font-size: 0.9rem;
+    }
+
+    .texts-main p{
+        font-size: 0.9rem;
+    }
+
+    .buttons-main{
+        margin: 2rem 0;
+    }
+
+    .buttons-main input{
+        padding: 0.5rem 1.5rem;
+    }
+
+    .btn-reserva input{
+        font-size: 0.8rem;
+    }
+
+    .btn-delivery input{
+        font-size: 0.8rem;
+    }
+
+    .buttons-main i{
+        display: none;
+    }
+}
+
+
+@media screen and (max-width: 533px) {
+    .texts-main h2{
+        font-size: 1.5rem;
+    }
+
+
+    .texts-main p{
+        font-size: 0.7rem;
+    }
+
+    .icons i{
+        margin-left: auto;
+        font-size: 0.7rem;
+        padding: 0.3rem;
+    }
+
+    .fa-bars{
+        font-size: 1rem;
+    }
+}
+
+
+@media screen and (max-width: 399px) {
+    .texts-main h2{
+        font-size: 1rem;
+    }
+
+    .texts-main span{
+        font-size: 0.6rem;
+    }
+
+
+    .texts-main p{
+        font-size: 0.6rem;
+    }
+
+    
+    .buttons-main{
+        margin: 1rem 0;
+    }
+
+    .buttons-main input{
+        padding: 0.3rem 0.7rem;
+    }
+
+    .btn-reserva input{
+        font-size: 0.6rem;
+        
+    }
+
+    .btn-delivery input{
+        font-size: 0.6rem;
+    }
+
+    .buttons-main i{
+        display: none;
+    }
+
+    .main-container{
+        height: 80%;
+    }
+
+    .icons i{
+        font-size: 0.7rem;
+        padding: 0.3rem;
+    }
+
+    .fa-bars{
+        font-size: 1rem;
+    }
+}
