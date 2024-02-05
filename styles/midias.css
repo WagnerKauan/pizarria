@@ -113,12 +113,38 @@
     nav span{
         font-size: 1rem;
     }
+
+    .buttons-main{
+        display: flex;
+        flex-direction: column;
+        gap: 0.6rem;
+        margin: 1.5rem 0 ;
+        
+    }
+
+    .buttons-main .btn-delivery{
+        order: 2;
+    }
+
+    .buttons-main .btn-delivery:hover{
+        transform: scale(1.1) translateY(0px);
+    }
+
+    .buttons-main .btn-reserva{
+        order: 1;
+    }
+
+    .buttons-main .btn-reserva:hover{
+        transform: scale(1.1) translateY(0px);
+        
+    }
 }
 
 
 @media screen and (max-width: 399px ) {
     .texts-main h2{
         font-size: 2rem;
+        margin-bottom: 0.5rem;
     }
 
     .texts-main span{
