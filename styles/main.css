@@ -99,7 +99,7 @@ main{
 
 .btn-reserva{
     position: relative;
-    transition: all 0.3s;
+    transition:all 0.3s ease-in;
 
 }
 
