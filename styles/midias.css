@@ -142,6 +142,11 @@
 
 
 @media screen and (max-width: 399px ) {
+
+    .texts-buttons-main{
+        width: 95%;
+    }
+
     .texts-main h2{
         font-size: 2rem;
         margin-bottom: 0.5rem;
@@ -153,7 +158,7 @@
 
 
     .texts-main p{
-        font-size: 0.8rem;
+        font-size: 0.7rem;
     }
 
     
@@ -162,16 +167,16 @@
     }
 
     .buttons-main input{
-        padding: 0.3rem 0.7rem;
+        padding: 0.4rem 0.9rem;
     }
 
     .btn-reserva input{
-        font-size: 0.6rem;
+        font-size: 0.8rem;
         
     }
 
     .btn-delivery input{
-        font-size: 0.6rem;
+        font-size: 0.8rem;
     }
 
     .buttons-main i{
@@ -183,8 +188,8 @@
     }
 
     .icons i{
-        font-size: 0.7rem;
-        padding: 0.3rem;
+        font-size: 0.9rem;
+        padding: 0.4rem;
     }
 
     nav span{
