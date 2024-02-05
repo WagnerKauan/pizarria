@@ -68,7 +68,7 @@
 }
 
 
-@media screen and (max-width: 533px) {
+@media screen and (max-width: 550px) {
     .texts-main h2{
         font-size: 1.5rem;
     }
