@@ -118,6 +118,7 @@
 @media screen and (max-width: 399px) {
     .texts-main h2{
         font-size: 1.4rem;
+        margin-bottom: 0.5rem;
     }
 
     .texts-main span{
