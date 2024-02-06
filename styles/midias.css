@@ -144,7 +144,7 @@
 @media screen and (max-width: 399px ) {
 
     .texts-buttons-main{
-        width: 95%;
+        width: 90%;
     }
 
     .texts-main h2{
@@ -159,6 +159,7 @@
 
     .texts-main p{
         font-size: 0.7rem;
+        text-align: inherit;
     }
 
     
