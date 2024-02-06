@@ -196,4 +196,13 @@
     nav span{
         font-size: 1rem;
     }
+
+
+    .container-header{
+        padding: 1.5rem;
+    }
+
+    nav{
+        padding: 0.5rem;
+    }
 }
